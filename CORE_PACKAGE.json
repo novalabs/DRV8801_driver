@@ -1,0 +1,5 @@
+{
+  "name": "DRV8801_driver",
+  "description": "TI DRV8801 driver",
+  "provider": "core"
+}
